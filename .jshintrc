@@ -21,7 +21,6 @@
     "jquery": true,
     "globals": {
         "_": true,
-        "NimbleChef": true,
         "it": true,
         "describe": true,
         "expect": true,
