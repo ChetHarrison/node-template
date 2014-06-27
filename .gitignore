@@ -25,6 +25,9 @@ build/Release
 node_modules
 bower_components
 
+# Plato lib
+reports/assets/*.*
+
 # Jasmine lib
 tests/lib/*.*
 tests/MIT.LICENSE
