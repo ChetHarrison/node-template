@@ -1,51 +1,52 @@
 {
-	"name": "node-template",
-	"version": "0.0.0",
-	"description": "A node app scaffold",
-	"main": "app.js",
-	"directories": {
-		"doc": "docs",
-		"test": "tests"
-	},
-	"scripts": {
-		"test": "test"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/ChetHarrison/node-template"
-	},
-	"keywords": [
-		"node",
-		"scaffold"
-	],
-	"author": "Chet Harrison",
-	"license": "BSD-2-Clause",
-	"bugs": {
-		"url": "https://github.com/ChetHarrison/node-template/issues"
-	},
-		"devDependencies": {
-		"grunt": "~0.4.5",
-		"grunt-nodemon": "~0.2.1",
-		"grunt-jasmine-node": "~0.2.1",
-		"grunt-contrib-jshint": "~0.10.0",
-		"grunt-contrib-watch": "~0.6.1",
-		"grunt-docco": "~0.3.3",
-		"grunt-plato": "~1.0.0",
-		"time-grunt": "~0.2.1"
-	},
-	"dependencies": {
-		"express": "3.1.0",
-		"jade": "*",
-		"async": "*",
-		"node-uuid": "*",
-		"bunyan-request-logger": "~0.2.3",
-		"lodash": "~2.4.1",
-		"debug": "~0.8.1",
-		"jquery": "~2.1.1",
-		"body-parser": "~1.2.0",
-		"express-error-handler": "~0.5.4",
-		"npm": "~1.4.13",
-		"install": "~0.1.7",
-		"express-sessions": "~1.0.5"
-	}
+  "name": "node-template",
+  "version": "0.0.0",
+  "description": "A node app scaffold",
+  "main": "app.js",
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ChetHarrison/node-template"
+  },
+  "keywords": [
+    "node",
+    "scaffold"
+  ],
+  "author": "Chet Harrison",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/ChetHarrison/node-template/issues"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-nodemon": "~0.2.1",
+    "grunt-jasmine-node": "~0.2.1",
+    "grunt-contrib-jshint": "~0.10.0",
+    "grunt-contrib-watch": "~0.6.1",
+    "grunt-docco": "~0.3.3",
+    "grunt-plato": "~1.0.0",
+    "time-grunt": "~0.2.1"
+  },
+  "dependencies": {
+    "express": "3.1.0",
+    "jade": "*",
+    "async": "*",
+    "node-uuid": "*",
+    "bunyan-request-logger": "~0.2.3",
+    "lodash": "~2.4.1",
+    "debug": "~0.8.1",
+    "jquery": "~2.1.1",
+    "body-parser": "~1.2.0",
+    "express-error-handler": "~0.5.4",
+    "npm": "~1.4.13",
+    "install": "~0.1.7",
+    "express-sessions": "~1.0.5",
+    "rx": "~2.2.28"
+  }
 }
