@@ -12,3 +12,4 @@ A scafold node application. Includes:
 * Nodemon
 * Lodash
 * jQuery
+* RxJS
